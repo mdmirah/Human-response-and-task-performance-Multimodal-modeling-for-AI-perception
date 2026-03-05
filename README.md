@@ -5,7 +5,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![AIAA Paper](https://img.shields.io/badge/AIAA%20Scitech%202026-2734-red.svg)](https://doi.org/10.2514/6.2026-2734)
 
-A framework for analyzing human performance states by integrating physiological signals (heart rate, pupil diameter) with task performance metrics (deviation, rate of change). Initially developed for Human-AI perception and teaming for a flight task with application potential in Autonomous driving and First Person Shooter Video Games.
+**A framework for analyzing human performance states by integrating physiological signals (heart rate, pupil diameter) with task performance metrics (deviation, rate of change). Initially developed for Human-AI perception and teaming for a flight task with application potential in Autonomous driving and First Person Shooter Video Games.**
 
 I originally publishhed the theoretical framework and core methodologyin this repository in:
 
