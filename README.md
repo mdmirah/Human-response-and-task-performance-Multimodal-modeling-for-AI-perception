@@ -7,16 +7,14 @@
 
 A framework for analyzing human performance states by integrating physiological signals (heart rate, pupil diameter) with task performance metrics (deviation, rate of change). Initially developed for Human-AI perception and teaming for a flight task with application potential in Autonomous driving and First Person Shooter Video Games.
 
-<img width="1391" height="701" alt="Screenshot 2026-03-05 104447" src="https://github.com/user-attachments/assets/5f1f51ba-5a93-455f-a3f7-2728d9c4dae3" />
-
-## 📄 Citation and Academic Context
-
 The theoretical framework and core methodology implemented in this repository were originally published in:
 
 **Rahman, M. M., & Fala, N. (2026). "A Multimodal Framework for Assessing Fitness to Fly in Flight Training."** *AIAA Scitech 2026 Forum*, Paper AIAA 2026-2734. https://doi.org/10.2514/6.2026-2734
 
 This paper introduces the **Fitness-to-Fly (F2Y)** score, an operational construct built on this framework that integrates a pilot's heart rate with flight performance metrics to estimate their internal state of fitness. 
 **If you use this code in your research, please cite both the original paper (for the theoretical framework) and this repository (for the code implementation).**
+
+<img width="1391" height="701" alt="Screenshot 2026-03-05 104447" src="https://github.com/user-attachments/assets/5f1f51ba-5a93-455f-a3f7-2728d9c4dae3" />
 
 ## 🎯 Key Features
 
