@@ -19,10 +19,10 @@ This paper introduces the **Fitness-to-Fly (F2Y)** score, an operational constru
 ## 🎯 Key Features
 
 - **Multi-dimensional State Classification**: Combines physiological and performance metrics for holistic operator state assessment based on the F2Y framework
-- **Dynamic Thresholding**: Adapts performance thresholds based on JASAT (Just Another Source of Action Time)
+- **Dynamic Thresholding**: Adapts performance thresholds based on critical points (The JASAT waypoint in this implementation) 
 - **Comprehensive Statistics**: Calculates state durations, transitions, and episode analysis
 - **Rich Visualizations**: Generates publication-quality plots with state-based coloring
-- **Self-Transition Tracking**: Includes same-state persistence in transition analysis
+- **State-Transition Tracking**: Includes state transition and persistence in transition analysis
 - **Statistical Validation**: Produces high-quality, statistically significant data with inherent structure
 
 ## 📊 State Classification Logic (F2Y Framework)
@@ -30,11 +30,11 @@ This paper introduces the **Fitness-to-Fly (F2Y)** score, an operational constru
 The system classifies operator states along two dimensions as defined in Rahman & Fala (2026):
 
 ### Physiological State (HR/PD)
-- **Stressed**: High Heart Rate AND High Pupil Diameter
+- **Stressed**: High Heart Rate AND High Pupil Diameter (Can be retrofitted with any required human response feature and directional relationship)
 - **Relaxed**: Any other combination
 
 ### Performance State
-- **Controlled**: Low Deviation AND Low Rate of Change (Smooth)
+- **Controlled**: Low Deviation AND Low Rate of Change (Smooth) (Can be retrofitted with any required task performance feature and directional relationship)
 - **Uncontrolled**: Any other combination
 
 ### Combined F2Y States
@@ -56,7 +56,7 @@ The framework's ability to produce statistically significant data makes it ideal
 - Training machine learning models for state prediction
 - Developing adaptive autonomy systems
 - Establishing baselines for operator performance
-- Identifying critical transitions in human-AI teaming scenarios
+- Identifying critical transitions in human-AI teaming scenarios including Aviation, Driving, and FPS gaming.
 
 ## 🧠 Foundation for Human-AI Perception
 
