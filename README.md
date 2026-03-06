@@ -16,6 +16,10 @@ This paper introduces the **Fitness-to-Fly (F2Y)** score, an operational constru
 
 <img width="1391" height="701" alt="Screenshot 2026-03-05 104447" src="https://github.com/user-attachments/assets/5f1f51ba-5a93-455f-a3f7-2728d9c4dae3" />
 
+<img width="900" height="442" alt="image" src="https://github.com/user-attachments/assets/41ba38e3-7651-4ade-8220-848b373966df" />
+
+<img width="600" height="437" alt="image" src="https://github.com/user-attachments/assets/fc275ca0-33be-4772-9aaf-1b7bdaae5f94" />
+
 ## 🎯 Key Features
 
 - **Multi-dimensional State Classification**: Combines physiological and performance metrics for holistic operator state assessment based on the F2Y framework
